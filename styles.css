@@ -1,0 +1,51 @@
+table, tr{
+    border: 1px solid black;
+    border-collapse:collapse;  
+}
+
+ul table{
+    list-style-type: none;
+}
+
+header img{
+    width: 100%;
+}
+
+section {
+    width: 100%;
+}
+
+image-gauche{
+    width: 50%;
+    float: left
+}
+
+text-perso1{
+    margin-left: 55%;
+}
+
+ul {
+    border: solid 1px black;
+}
+
+aside{
+    border:solid 1px black;
+    float: right;
+    width: 63%;
+}
+
+img{
+    width: 300%;
+    height: auto;
+}
+
+aside img{
+    width: 50%;
+    height: auto;
+}
+
+header{
+    width: 100%;
+    height: auto;
+}
+

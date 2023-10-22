@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <meta charset="utf-8"/>
+        <title>Serie TV</title>
+        <link rel="stylesheet" href="styles.css">
+        <link rel="stylesheet" href="placement.css">
+    </head>
+    <body>
+        <header>
+            <div>
+                <img src="img/bann.jpg">
+            </div>
+            <nav>
+                <ul>
+                    <li> <a href="./P_Accueil">Accueil</a></li>
+                    <li> <a href="">Saisons</a></li>
+                    <li> <a href="./P_personnages">Personnages</a></li>
+                    <li> <a href="">Bandes annonce</a></li>
+                    <li> <a href="">Boutique</a></li>
+                </ul>
+            </nav>
+        </header>
+        <main>
+            <section #Personnages>
+                <img class="image-gauche" src="img/gojo_satoru_19784.webp" alt="">
+                <div class="text-perso1">
+                    <h1>Gojo Satoru</h1>
+                    <p>Satoru Gojo (Japanese: 五条 悟, Hepburn: Gojō Satoru) is a fictional character from Gege Akutami's manga Jujutsu
+                    Kaisen. He was first introduced in Akutami's short series Tokyo Metropolitan Curse Technical School as the mentor 
+                    of the cursed teenager Yuta Okkotsu at Tokyo Prefectural Jujutsu High School. This miniseries became the prequel Jujutsu 
+                    Kaisen 0 of Jujutsu Kaisen. In Jujutsu Kaisen, Gojo takes the same role but mentors the student Yuji Itadori who suffers a 
+                    similar Curse, helping him become stronger while protecting other characters in the series. </p>
+                </div>
+            </section>
+            <section #Personnages>
+                <div>
+                    <h1>Itadori Yuji </h1>
+                    <p>Yuji Itadori (Japanese: 虎杖悠仁, Hepburn: Itadori Yūji) is a fictional character and the main protagonist of the manga series
+                        Jujutsu Kaisen created by Gege Akutami. Yuji is a first-year Jujutsu Sorcerer at Tokyo Jujutsu High who is thrown into the world 
+                        of sorcery after he ate a Cursed Object: a finger belonging to Ryomen Sukuna, a powerful Cursed Spirit—a being manifested from Cursed 
+                        Energy from the negative emotions flowing from humans. With his classmates, Yuji exorcises Curses while trying to honor his grandfather's 
+                        legacy and save others unconditionally so that when he is executed after eating all twenty fingers, he will not be alone in his death. </p>
+                </div>
+                <img src="img/jujutsu-header.webp" alt="">
+            </section>
+        </main>
+        <aside>
+            <div>
+                <h2>Nouvelles</h2>
+                <p>Lundi, 16 Octobre 2023 Le jeu vidéo Jujutsu Kaisen Cursed Clash sortira le 02 février sur tous supports ... </p>
+            </div>
+            <div>
+                <h2>Reseaux sociaux</h2>
+                <table>
+                    <tr><td>Facebook</td></tr>
+                    <tr><td>Twitter</td></tr>
+                </table>
+            </div>
+            <div>
+                <h2>Contacts</h2>
+                <img src="img/contact.png" alt="">
+                <h4>John Doe</h4>
+                <p>contact.exemple@gmail.com</p>
+            </div>
+        </aside>
+        <footer>
+            <p>Droit d'auteur : les textes sont disponibles sous licence Creative Commons attribution, partage dans les mêmes conditions ; d’autres conditions peuvent s’appliquer. Voyez les conditions d’utilisation pour plus de détails, ainsi que les crédits graphiques. En cas de réutilisation des textes de cette page, voyez comment citer les auteurs et mentionner la licence.
+                Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc., organisation de bienfaisance régie par le paragraphe 501(c)(3) du code fiscal des États-Unis.</p>
+        </footer>
+    </body>
+</html>

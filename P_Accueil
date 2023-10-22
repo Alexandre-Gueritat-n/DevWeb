@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <meta charset="utf-8"/>
+        <title>Serie Tv</title>
+        <link rel="stylesheet" href="Accueil_style.css">
+        <link rel="stylesheet" href="Accueil_placement.css">
+    </head>
+    <body background="img/Jujutsu-Kaisen-2.webp" bgproperties="fixed">
+        <h1>Accueil</h1>
+        <h2>Jujutsu Kaisen</h2>
+        <a href="./P_personnages">Personnages</a></li>
+    </body>
+</html>
